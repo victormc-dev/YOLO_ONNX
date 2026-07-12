@@ -1,0 +1,11 @@
+*.pt
+*.onnx
+*.engine
+*.jpg
+*.jpeg
+*.png
+*.log
+*.pyc
+__pycache__/
+cmake-*/
+TensorRT/
